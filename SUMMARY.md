@@ -2,5 +2,5 @@
 
 * [introduction](README.md)
    * [Call Graph模块](1-callgraph/1-intr.md)
-   * Diffe模块
+   * [Diffe模块](2-diffe/2-intr.md)
 
