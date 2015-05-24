@@ -3,7 +3,7 @@
 
 ![image](1-16.png "Logo Title Text 1")
 
-![image](1-16.png "Logo Title Text 1")
+![image](fig/1-01.png "Logo Title Text 1")
 
 ![alt text][logo]
 Inline-style:
